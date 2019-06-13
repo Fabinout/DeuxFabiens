@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "DeuxFabiensCarsGo",
+    "packageName": "io.vlc.carsgo",
+    "packageFolder": "io/vlc/carsgo",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.0",
+    "jwtSecretKey": "NjNiODJmYmQwZGUxYjQwYjA4NTUxNmMyM2QzYTI4NzM1MGY1YjQyNjQwMjQ1NTQ1Y2I2MTIyM2JmZGQ0MTIwZTA5ZGNhNTE4NjEwN2U4ZWQxYzAxNTU2OTE2MDNjMTc1NjU2OTI5NmQ3Y2M5MmU5YWFlMjMzM2QwZDExMWZiNGM=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Fabinout",
+  "repository-name": "DeuxFabiens"
+}
